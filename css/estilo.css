@@ -1,0 +1,16 @@
+body slides slide {
+  background: url('fundo_geral.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+body slides slide.title-slide {
+  background: url('fundo_title.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.thanks p {
+  font-size: 42px;
+  text-align: center;
+}
